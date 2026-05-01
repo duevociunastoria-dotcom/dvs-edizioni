@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Due Voci Una Storia Edizioni',
-    subtitle: 'Minimal Astro.js theme',
+    subtitle: 'Storie che non spiegano. Accompagnano. Tra musica, mistero e immaginazione.',
     description: 'Libri per bambini e ragazzi: storie che accompagnano, emozionano e fanno crescere.',
     image: {
         src: '/dante-preview.jpg',
