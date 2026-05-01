@@ -4,11 +4,11 @@ description: 'Una storia musicale per bambini che parla di ascolto, inclusione e
 publishDate: '4 luglio 2025'
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: '../../assets/images/la-nota-birichina.jpg'
     alt: 'Copertina del libro La Nota Birichina'
 ---
 
-![Copertina del libro La Nota Birichina](../../assets/images/project-1.jpg)
+![Copertina del libro La Nota Birichina](../../assets/images/la-nota-birichina.jpg)
 
 # La Nota Birichina
 
